@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤Mrk YT', url='https://t.me/MRK_YT'),
+            InlineKeyboardButton('👤Ashaan', url='https://t.me/IM_GODGROOT'),
             InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
         ],[
-            InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
+            InlineKeyboardButton('👤 GOD 👤', url='https://t.me/CINEMAZIPNEWS')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
